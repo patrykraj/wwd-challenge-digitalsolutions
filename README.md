@@ -1,2 +1,2 @@
 # wwd-challenge-digitalsolutions
-Challenge 3rd from weekly webdev challenger group
+Challenge 3rd from weekly webdev challenger group (HTML && CSS)
